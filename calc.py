@@ -3,6 +3,7 @@ def calc(a,b):
     print(sum)
     diff = a - b
     mult = a * b
+    div = a / b
     
 # Write the code for subtract
 # Do a commit
