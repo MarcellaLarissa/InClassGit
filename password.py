@@ -4,3 +4,5 @@ def password(n):
     pass
 
 n = int(input("Please enter a number"))
+
+password(n)
